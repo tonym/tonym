@@ -27,8 +27,8 @@ These repositories are related parts of a larger architectural exploration:
 
 I write in public about systems design, architecture, and long-term maintainability:
 
-- Design Systems Mindset on Medium  
-  https://medium.com/design-systems-mindset
+- Read my work on Medium  
+  [https://medium.com/@tony.m.pdx](https://medium.com/@tony.m.pdx)
 
 ## Notes
 
