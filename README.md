@@ -28,7 +28,7 @@ These repositories are related parts of a larger architectural exploration:
 I write in public about systems design, architecture, and long-term maintainability:
 
 - Learn about Radial Architecture  
-  [[https://www.radialarchitectue.com](https://www.radialarchitecture.com)]
+  [[https://www.radialarchitecture.com](https://www.radialarchitecture.com)]
 
 - Read my work on Medium  
   [https://medium.com/@tony.m.pdx](https://medium.com/@tony.m.pdx)
